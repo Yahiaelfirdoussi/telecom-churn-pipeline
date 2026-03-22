@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+data/raw/
+data/processed/
+models/
+.DS_Store
+venv/
+.venv/
