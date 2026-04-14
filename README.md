@@ -108,4 +108,4 @@ telecom-churn-pipeline/
 
 **Yahya Elfirdoussi** — Data Scientist & ML Engineer
 📧 yahiaelfirdoussi7@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/yahya-elfirdoussi) · [Portfolio](https://yahiaelfirdoussi.netlify.app) · [GitHub](https://github.com/yahiaelfirdoussi)
+🔗 [LinkedIn]([https://linkedin.com/in/yahya-elfirdoussi](https://www.linkedin.com/in/yahia-elfirdoussi/)) · [Portfolio](https://yahiaelfirdoussi.netlify.app) · [GitHub](https://github.com/yahiaelfirdoussi)
